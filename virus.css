@@ -1,0 +1,135 @@
+html, body{
+	margin:0;
+	padding:0;
+	overflow:auto;
+}
+.jumbotron-header {
+	background:url("coronaslika.jpg");
+	background-size:cover;
+	height:calc(100vh);
+	margin-bottom:0;
+	padding-top: 6rem;
+}
+.navFix{
+	background:gray;
+	width:100%;
+	height:auto;
+}
+.navbar-hamburger{
+	font-size:25px;
+	font-weight:600;
+	color:white;
+	text-transform:lowercase;
+	
+}
+.navbar-nav{
+	margin:auto;
+}
+.nav-item{
+	margin-left:50px;
+	margin-right:50px;
+}
+.navbar-hamburger:hover{
+	text-decoration:none;
+	color:white;
+}
+.a-link{
+	color:white;
+	font-size:25px;
+	line-height:2.278;
+}
+.nav-link:hover{
+	color:white;
+}
+.button{
+	color:#696969;
+	border:2px solid white;
+	border-radius:30px;
+	padding:15px 50px;
+	font-weight:bold;
+	font-size:20px;
+	text-decoration:none !important; 
+}
+.button:hover{
+	color:white;
+	background-color:#A9A9A9;
+	text-decoration:none !important;
+	transition:all 1s ease;
+}
+.h3{
+	color:#343a40;
+	text-align:center;
+	margin-top:2vw;
+	font-size:30px;
+	position:relative;
+	width:85%;
+}
+.h3-korona{
+	color:#343a40;
+	text-align:center;
+	margin-top:3vw;
+	font-size:30px;
+	position:relative;
+	width:85%;
+}
+.h1{
+	color:#343a40;
+	text-align:center;
+	margin-top:6vw;
+	margin-left:-5vw;
+	margin-right:-5vw;
+	font-size:30px;
+}
+.jumbotron-header-statistic {
+	background:url("statistikaslika.jpg");
+	background-size:cover;
+	height:calc(100vh);
+	margin-bottom:0;
+	padding-top: 6rem;
+}
+.table{
+	font-weight:bold;
+}
+.h3-statistic{
+	color:#343a40;
+	margin-top:2vw;
+	text-align:center;
+}
+.h3-srbija{
+	color:#343a40;
+	margin-top:5vw;
+	text-align:center;
+}
+.h1-srbija{
+	color:#343a40;
+	text-align:center;
+	margin-top:9vw;
+	margin-left:-5vw;
+	margin-right:-5vw;
+	font-size:32px;
+}
+.h3-kontakt{
+	font-size:50px;
+	color:#343a40;
+	margin-top:2vw;
+	text-align:center;
+}
+.jumbotron-header-kontakt {
+	background:url("mobslika.jpg");
+	background-size:cover;
+	height:calc(100vh);
+	margin-bottom:0;
+	padding-top: 6rem;
+}
+.h1-kontakt{
+	color:#343a40;
+	text-align:center;
+	margin-top:14vw;
+	margin-left:-5vw;
+	margin-right:-5vw;
+	font-size:32px;
+}
+.table-sm-kontakt{
+	font-size:35px;
+	margin-top:5vw;
+}
