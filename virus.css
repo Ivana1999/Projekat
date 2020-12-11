@@ -4,7 +4,7 @@ html, body{
 	overflow:auto;
 }
 .jumbotron-header {
-	background:url("coronaslika.jpg");
+	background:url("pocetna.jpg.jpg");
 	background-size:cover;
 	height:calc(100vh);
 	margin-bottom:0;
@@ -81,7 +81,7 @@ html, body{
 	font-size:30px;
 }
 .jumbotron-header-statistic {
-	background:url("statistikaslika.jpg");
+	background:url("statistika.jpg.jpg");
 	background-size:cover;
 	height:calc(100vh);
 	margin-bottom:0;
@@ -115,7 +115,7 @@ html, body{
 	text-align:center;
 }
 .jumbotron-header-kontakt {
-	background:url("mobslika.jpg");
+	background:url("kontakt.jpg.jpg");
 	background-size:cover;
 	height:calc(100vh);
 	margin-bottom:0;
